@@ -17,3 +17,9 @@ C
 src/HtmlReader.java,3\e\3ec5c5882301e0565c67bb40a7748a21b9eb6a1a
 @
 src/HtmlTag.java,8\7\870e7b1db9a6862e7330867122b63395042a457a
+:
+
+test6.html,0\5\0581a0d11c8abcca58ceb7a09748c42bdbf9878c
+:
+
+test5.html,3\5\3520c8dfa9d69395a508e9a3b84597fca08daeb9
