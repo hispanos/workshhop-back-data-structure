@@ -1,0 +1,13 @@
+
+7
+java:S1220""Move this file to a named package.8©œÈÊÜ1
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Š¸Ú8¯œÈÊÜ1
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(µø³8ô×ÖïÜ1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(¯ ÃÎüÿÿÿÿ8°œÈÊÜ1
+8
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8÷×ÖïÜ1
+H
+java:S1168"+Return an empty collection instead of null.(¥¹ï8ü×ÖïÜ1

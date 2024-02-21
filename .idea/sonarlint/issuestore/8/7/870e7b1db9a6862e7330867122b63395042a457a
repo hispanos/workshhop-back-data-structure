@@ -1,0 +1,15 @@
+
+o
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ğ¦»ÿ
+t
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(·Úöúúÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+f
+java:S1206'"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+u
+java:S1149C"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ø×€¡
+u
+java:S1149N"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(†ş‘†
+h
+java:S3776N"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(†ş‘†
